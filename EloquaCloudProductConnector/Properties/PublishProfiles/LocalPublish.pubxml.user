@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.dll">
+      <publishTime>06/06/2013 16:28:02</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>06/05/2013 18:34:32</publishTime>
+    </File>
+    <File Include="ProductConnector.aspx">
+      <publishTime>06/06/2013 16:00:55</publishTime>
+    </File>
+    <File Include="Service References/EloquaProgramService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.EloquaProgramService.Member.datasource">
+      <publishTime>06/06/2013 15:35:24</publishTime>
+    </File>
+    <File Include="Service References/EloquaProgramService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.EloquaProgramService.Step.datasource">
+      <publishTime>06/06/2013 15:35:24</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.CreateAssetResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.CreateResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DeleteAssetResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DeleteResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeActivityResult.datasource">
+      <publishTime>06/06/2013 15:36:21</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeActivityTypeResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeAssetResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeAssetTypeResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeEntityResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DescribeEntityTypeResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DynamicActivity.datasource">
+      <publishTime>06/06/2013 15:36:21</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DynamicAsset.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DynamicEntity.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.DynamicEntityQueryResults.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.GroupMemberResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.ListActivityTypesResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.ListAssetTypesResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.ListEntityTypesResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.SendEmailResult.datasource">
+      <publishTime>06/06/2013 15:36:21</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.UpdateAssetResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ElqService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ElqService.UpdateResult.datasource">
+      <publishTime>06/06/2013 15:36:20</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/configuration.svcinfo">
+      <publishTime>06/03/2013 18:07:00</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/configuration91.svcinfo">
+      <publishTime>06/03/2013 18:07:00</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/ExternalActionService.wsdl">
+      <publishTime>06/03/2013 18:06:59</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ExternalActionService.Member.datasource">
+      <publishTime>06/06/2013 15:35:29</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.ExternalActionService.Step.datasource">
+      <publishTime>06/06/2013 15:35:29</publishTime>
+    </File>
+    <File Include="Service References/ExternalActionService/Reference.svcmap">
+      <publishTime>06/03/2013 18:07:00</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/06/2013 16:28:04</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

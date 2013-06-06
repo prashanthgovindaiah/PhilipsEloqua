@@ -1,0 +1,20 @@
+D:\Study Materials\EloquaCloudConnector\EloquaCloudProductConnector\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+D:\Study Materials\EloquaCloudConnector\EloquaCloudProductConnector\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+D:\Study Materials\EloquaCloudConnector\EloquaCloudProductConnector\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.dll
+D:\Study Materials\EloquaCloudConnector\EloquaCloudProductConnector\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.pdb
+C:\Users\admin\Documents\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+C:\Users\admin\Documents\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+C:\Users\admin\Documents\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.dll
+C:\Users\admin\Documents\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.pdb
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.dll
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.pdb
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.dll
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\obj\Debug\EloquaCloudProductConnector.pdb
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\bin\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.dll
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\bin\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.pdb
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\obj\Debug\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.dll
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\obj\Debug\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.pdb

@@ -1,0 +1,14 @@
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.csprojResolveAssemblyReference.cache
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.dll
+D:\GitHub\EloquaProduct\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.pdb
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.dll
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\bin\EloquaCloudProductConnector.pdb
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.dll
+D:\GitHub\CloudProductContact\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.pdb
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\bin\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.dll
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\bin\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.pdb
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\obj\Release\EloquaCloudProductConnector.csprojResolveAssemblyReference.cache
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\obj\Release\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.dll
+D:\Prashanth\2013\BD\ELOQUA\CloudProductContact\EloquaCloudProductConnector\obj\Release\Philips.DigitalServices.Eloqua.EloquaCloudProductConnector.pdb
